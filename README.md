@@ -9,6 +9,8 @@
 
 ### Public URL: [http://34.128.67.116:8501/](http://34.128.67.116:8501/)
 
+### Alternative Link: [https://webapp-zxsqmv63ta-uc.a.run.app/](https://webapp-zxsqmv63ta-uc.a.run.app/)) 
+
 ### Test the streamlit app on local:
 
 1. Navigate to the `web_app/` directory:
